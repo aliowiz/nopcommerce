@@ -37,6 +37,9 @@ public class HomePage extends BaseTest {
 	public boolean verifyLogo() {
 		return pageLogo.isDisplayed();
 	}
+	public void cheak() {
+		System.out.println("hello");
+	}
 
 	public RegisterPage goToRegisterPage() {
 		registerLink.click();
