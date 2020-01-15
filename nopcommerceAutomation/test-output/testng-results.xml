@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73294" started-at="2020-01-08T23:54:50 CST" finished-at="2020-01-08T23:56:03 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73294" started-at="2020-01-08T23:54:50 CST" finished-at="2020-01-08T23:56:03 CST">
+      <class name="com.nopCommerceAutomation.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopCommerceAutomation.HomePageTest@711f39f9]" name="setUp" is-config="true" duration-ms="11962" started-at="2020-01-08T23:54:50 CST" finished-at="2020-01-08T23:55:02 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPageTitleTest()[pri:1, instance:com.nopCommerceAutomation.HomePageTest@711f39f9]" name="verifyPageTitleTest" duration-ms="36" started-at="2020-01-08T23:55:02 CST" finished-at="2020-01-08T23:55:02 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopCommerceAutomation.HomePageTest@711f39f9]" name="tearDown" is-config="true" duration-ms="859" started-at="2020-01-08T23:55:02 CST" finished-at="2020-01-08T23:55:03 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopCommerceAutomation.HomePageTest@711f39f9]" name="setUp" is-config="true" duration-ms="10936" started-at="2020-01-08T23:55:03 CST" finished-at="2020-01-08T23:55:14 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLogo()[pri:2, instance:com.nopCommerceAutomation.HomePageTest@711f39f9]" name="verifyLogo" duration-ms="78" started-at="2020-01-08T23:55:14 CST" finished-at="2020-01-08T23:55:14 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopCommerceAutomation.HomePageTest@711f39f9]" name="tearDown" is-config="true" duration-ms="818" started-at="2020-01-08T23:55:14 CST" finished-at="2020-01-08T23:55:15 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopCommerceAutomation.HomePageTest@711f39f9]" name="setUp" is-config="true" duration-ms="10698" started-at="2020-01-08T23:55:15 CST" finished-at="2020-01-08T23:55:25 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goToRegisterPage()[pri:3, instance:com.nopCommerceAutomation.HomePageTest@711f39f9]" name="goToRegisterPage" duration-ms="876" started-at="2020-01-08T23:55:25 CST" finished-at="2020-01-08T23:55:26 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToRegisterPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopCommerceAutomation.HomePageTest@711f39f9]" name="tearDown" is-config="true" duration-ms="809" started-at="2020-01-08T23:55:26 CST" finished-at="2020-01-08T23:55:27 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopCommerceAutomation.HomePageTest@711f39f9]" name="setUp" is-config="true" duration-ms="10795" started-at="2020-01-08T23:55:27 CST" finished-at="2020-01-08T23:55:38 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goToLoginPage()[pri:4, instance:com.nopCommerceAutomation.HomePageTest@711f39f9]" name="goToLoginPage" duration-ms="886" started-at="2020-01-08T23:55:38 CST" finished-at="2020-01-08T23:55:39 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToLoginPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopCommerceAutomation.HomePageTest@711f39f9]" name="tearDown" is-config="true" duration-ms="804" started-at="2020-01-08T23:55:39 CST" finished-at="2020-01-08T23:55:40 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopCommerceAutomation.HomePageTest@711f39f9]" name="setUp" is-config="true" duration-ms="10622" started-at="2020-01-08T23:55:40 CST" finished-at="2020-01-08T23:55:50 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goToWishListPage()[pri:5, instance:com.nopCommerceAutomation.HomePageTest@711f39f9]" name="goToWishListPage" duration-ms="551" started-at="2020-01-08T23:55:50 CST" finished-at="2020-01-08T23:55:51 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToWishListPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopCommerceAutomation.HomePageTest@711f39f9]" name="tearDown" is-config="true" duration-ms="815" started-at="2020-01-08T23:55:51 CST" finished-at="2020-01-08T23:55:52 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.nopCommerceAutomation.HomePageTest@711f39f9]" name="setUp" is-config="true" duration-ms="10812" started-at="2020-01-08T23:55:52 CST" finished-at="2020-01-08T23:56:02 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goToShoppingCartPage()[pri:6, instance:com.nopCommerceAutomation.HomePageTest@711f39f9]" name="goToShoppingCartPage" duration-ms="65" started-at="2020-01-08T23:56:02 CST" finished-at="2020-01-08T23:56:02 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToShoppingCartPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopCommerceAutomation.HomePageTest@711f39f9]" name="tearDown" is-config="true" duration-ms="826" started-at="2020-01-08T23:56:02 CST" finished-at="2020-01-08T23:56:03 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nopCommerceAutomation.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
